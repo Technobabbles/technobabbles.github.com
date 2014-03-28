@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/dgw
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://org.github.technobabbl.es
+  * I am dgw (https://keybase.io/dgw) on keybase.
+  * I have a public key with fingerprint FD79 4B46 9B89 955F 2083  4558 7C9E E7B7 D379 F9CC
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "fd794b469b89955f208345587c9ee7b7d379f9cc",
+            "host": "keybase.io",
+            "key_id": "7c9ee7b7d379f9cc",
+            "uid": "32a2e1ee9af45e1adba0a9afba2eaa00",
+            "username": "dgw"
+        },
+        "service": {
+            "hostname": "org.github.technobabbl.es",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396035353,
+    "expire_in": 157680000,
+    "prev": "25be7aaed351642be9fce14555b6aae598369728a2f660d6771b330097be2b71",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.1
+Comment: https://keybase.io/crypto
+
+yMHzAnicbZFtSBRbGMd31dSUXpCS/JDJREZhy7zszOxZiETRKPpQWgYlbXNmzs4O
+2sw2O7ub7N3sBe8tgorEW7rkstiWUZkURRBturiRCqW0xP3SF1PTbgoSgliEZ8S+
+NfPh8Pyf//P7z5xnYE2mJc9657ZYVbEQ32Md7lv0W2rZ90UhAmpSE+EMEQ1o+XAr
+qox0r66oBuEk3BIP7NDOAegAgGXdNOlg7Czr4EWAEA95ieGBG4giUUZ4NJ85gTFQ
+8CGbomENFy5Fwuof/P7lBkMLNKIQAoLbziJKkKBACriAWBYEkjSNPqSrwimE3ZIc
+JMJlBBYCioiF0HLqSlPTZZusGB4/tBlI9KgaFCBstCEfZnh1zdBErRHbPIbhdZoU
+o8lrjgURdK0AXVBRJfz/eCCAdJ+iqYSTwk7RUMwEigEcybD4LSPQGa+iI5diOlie
+c5D4MWNQACNpFiJeEJDEsBRnpyECbhFR+N5YyGGZBQ6GAzztEGg3x5ESx/MUZBiS
+BDxENOQpnO9Dp1UNs2n8nYKMmT5FVgXDryMinOyrz7JY8yzZqzLMFVryVq//vdhh
+Z67l6ffuY7M1STmdFb14cmdDzpuWiYy2kq7XE62w5AI4eDcxUh7u/VYRHV+ELwKl
+gVuPrySy61KXO2zB+RP5yto5Ncy8yp/hxjqc0bOpTvij7mbJZCz+RemXDX9lRQ3z
+oS1RGou92/QJJgZ7jJ7jE1OFBQ9y1Xv7ugfHjKmN4cO90cHGql85Xe1tG1p+dr28
+2r15+1ioOjJgHFB2pO7/XXgtq7J+2/7qUWu89fpCJPBPEpyfdxWUcsHidfHJr0PT
+W2Lp53vrDjWPNKe9bwuHztUXPzny+cZUe6R8fKadSH882jn9/9zobObDVO1/k9xQ
+0UjTo930v71b/9r1rP9SMrIE5wUfSA==
+=GVy1
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dgw
+
+==================================================================
